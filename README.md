@@ -11,6 +11,12 @@ A mesmerizing animated starfield background with twinkling stars and dynamic spa
 - **Performance Optimized**: Uses canvas for efficient rendering with `requestAnimationFrame`
 - **Smooth Animations**: Stars pulse and twinkle with sine wave animation
 
+## 🎬 Live Demo
+
+Check out the live demo here: https://nirzarah.github.io/animated-background2/
+
+> **Video Demo**: Visit the live website to see a 5-second preview of the animated starfield in action with twinkling stars and dynamic sparkle effects.
+
 ## 🚀 Quick Start
 
 1. **Clone the repository**
