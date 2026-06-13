@@ -36,6 +36,7 @@ animated-background2/
 ├── index.html      # Main HTML file with canvas element
 ├── style.css       # Styling for full-screen canvas
 ├── script.js       # JavaScript animation logic
+├── LICENSE         # MIT License
 └── README.md       # This file
 ```
 
@@ -96,7 +97,9 @@ Works on all modern browsers that support:
 
 ## 📝 License
 
-Feel free to use this project for personal or commercial purposes.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+You are free to use this project for personal or commercial purposes.
 
 ## 🙌 Contributing
 
